@@ -6,4 +6,4 @@ My current side-projects:
 
 * 📷 [pixelpeeper](https://pixelpeeper.io) - view EXIF & Lightroom edits for JPG files
 * 🧠 [Roam Digest](https://roamdigest.com) - an automated news aggregator for [#roamcult](https://twitter.com/hashtag/roamcult)
-* 📚 [Kindle Formatter](https://kindle-formatter.vercel.com) - a tool for exporting Kindle book highlights to note-taking apps
+* 📚 [Kindle Formatter](https://kindle-formatter.vercel.app) - a tool for exporting Kindle book highlights to note-taking apps
