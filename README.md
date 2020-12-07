@@ -7,7 +7,7 @@ I enjoy building things for the web.
   * ⚙️ Stack: Rails, React, Postgres, Docker, Kubernetes, Elasticsearch, Redis
 * 📸 I'm a [hobbyist photographer](https://ptrchm.com/photos/) ([instagram](https://www.instagram.com/pchm/))
 * 📬 Reach me at piotr@chmolowski.pl
-* 📝 Resume: (LinkedIn)[https://www.linkedin.com/in/piotrch/]
+* 📝 Resume: [LinkedIn](https://www.linkedin.com/in/piotrch/)
 * 🐦 Every once in a while, I tweet at [@p_ch](https://twitter.com/p_ch)
 
 ## 👨🏻‍💻 Latest Personal Projects
