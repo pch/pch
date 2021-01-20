@@ -5,7 +5,7 @@ Yet, I never actually got around to learning Vim. I've heard tons of great thing
 about it and it seems that everyone has already switched from TextMate/Sublime to
 Vim. Still, to me Vim has always been an obscure realm of neckbeard superpowers.
 
-![](./from-textmate-to-vim/vim.png)
+![](./vim.png)
 
 I've been a TextMate user since 2006 and I've grown really attached to it, refusing to
 switch to other, supposedly better editors, even when it felt that TextMate 2 wasn't ever
