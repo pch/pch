@@ -1,17 +1,6 @@
----
-title: How to Build a CMS in Ruby on Rails
-subtitle: A step-by-step guide to creating a flexible CMS engine from scratch
-type: post
-tags:
-  - ruby
-  - rails
-  - programming
-  - web development
----
-
 # How to Build a CMS in Ruby on Rails
 
-**NOTE:** This tutorial was originally published in 2015 and some parts may not work with the latest versions of Rails.
+*(**NOTE:** This tutorial was originally published in 2015 and some parts may not work with the latest versions of Rails.)*
 
 I remember exactly when and why I started learning Ruby and Rails. It was right after I saw the famous ["blog in 15 minutes"][blog15] video by DHH. This quick, clumsy demo of the new web framework, written in an exotic programming language, was like a breath of fresh air – a comforting, elegant answer to all the little annoyances I was constantly dealing with in PHP. I immediately wanted to know more about Rails, so I got my hands on [The Pickaxe][pickaxe] book and devoured it in a couple of evenings.
 
