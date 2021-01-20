@@ -1,5 +1,7 @@
 # Blogging with Markdown, Dropbox and Rails
 
+*(**NOTE:** I originally published this in 2016 on my custom-built personal website. The irony that it's now hosted on GitHub is not lost on me.)*
+
 My last year's [tutorial on How to Build a CMS in Rails][tutorial] came into existence as a byproduct of a selfish goal. I wanted to build a simple and flexible CMS for my personal needs and ended up documenting the process. The version I described in the tutorial was the starting point – a rough sketch of some of the ideas I had at the time. Fast forward a year (and multiple concepts), I’ve finally arrived at a result satisfying enough to rebuild this site using my own CMS.
 
 You may ask, why would I spend so much time re-inventing the wheel? With so many options for hosting a personal site these days, it’s mind-boggling that someone would choose to build everything from scratch. Well, even though I don't write often, this website is important to me — not only as a publishing platform. It also serves as a playground for various coding experiments that help me grow professionally and keep me interested in web development. On top of that, I simply wanted to have a system I’d be happy with.
@@ -37,13 +39,7 @@ This time I reverse-engineered my workflow. I wanted to be able to edit plain te
 
 Dropbox seemed like a natural fit, as it allows me to access files on any device (whether it’s macOS, iOS, Windows or Linux). This includes the web server, which also has access to the content directory, so any changes I make locally will be synced to the server and my website will be updated within seconds:
 
-<figure>
-<video controls>
-  <source src="./dropbox-sync.mp4"  type="video/mp4">
-Your browser does not support the video tag
-</video>
-  <figcaption>A quick demo of Dropbox sync (no sound).</figcaption>
-</figure>
+**[Check out the demo video](https://github.com/pch/pch/blob/main/writing/blogging-with-markdown-dropbox-and-rails/dropbox-sync.mp4?raw=true)**
 
 The content directory is also a regular git repo — for revision control and additional backup. Blog posts are imported to the database. The database and images are backed up daily to an Amazon S3 bucket.
 
