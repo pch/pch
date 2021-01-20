@@ -1,5 +1,7 @@
 # From TextMate to Vim
 
+_(**NOTE:** originally published in 2014)_
+
 As a Ruby developer, I spend a great deal of my time in the terminal window.
 Yet, I never actually got around to learning Vim. I've heard tons of great things
 about it and it seems that everyone has already switched from TextMate/Sublime to
@@ -13,7 +15,7 @@ going to happen. Eventually though, the new version _was_ released and I've been
 happy with it so far[^splits].
 
 Why switch then? For me there's two reasons: envy and curiosity. When you see someone
-working with Vim fluently, it makes you look like a butterfingered amateur. Experienced
+working with Vim fluently, it makes you look like a clumsy amateur. Experienced
 Vim users seem to have the ability to manipulate text astonishingly fast, so I wanted to
 find out if my workflow can be improved by using a different editor. Besides, it's fun
 to learn something completely new every once in a while.
