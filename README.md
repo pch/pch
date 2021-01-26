@@ -16,6 +16,6 @@ Some of my old tech-related posts, from a now-defunct blog:
 
 ## 👨🏻‍💻 Latest Personal Projects
 
-* 📷 [pixelpeeper](https://pixelpeeper.io) - create [Lightroom presets](https://pixelpeeper.io/lightroom-presets) from JPG files. (Next.js, Rails)
+* 📷 [pixelpeeper](https://pixelpeeper.io) - create [Lightroom presets](https://pixelpeeper.io/lightroom-presets) from JPG files. (Next.js, React, Rails)
 * 🧠 [Roam Digest](https://roamdigest.com) - an automated news aggregator for [#roamcult](https://twitter.com/hashtag/roamcult) (React, Rails)
-* 📚 [Kindle Formatter](https://kindle-formatter.vercel.app) - a tool for exporting Kindle book highlights to note-taking apps (Next.js)
+* 📚 [Kindle Formatter](https://kindle-formatter.vercel.app) - a tool for exporting Kindle book highlights to note-taking apps (Next.js, React)
