@@ -6,6 +6,8 @@ Freelance software engineer in Warsaw. I've been building and running production
 
 **→ [Work with me](https://ptrchm.com/work-with-me/)**
 
+**New: [AI Workflow Session](https://ptrchm.com/work-with-me/#ai-session).** A 90-minute, hands-on workshop for you or your team. We look at how you work with AI coding agents today and set up a more productive workflow together, in your own codebase.
+
 ### What I'm building
 
 - **[RAWmakase](https://github.com/pch/rawmakase)**: a free, fast, Lightroom-compatible RAW photo editor for Linux, macOS and Windows. Written in Rust, built with AI agents that verify their own work.
